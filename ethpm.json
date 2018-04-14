@@ -1,0 +1,15 @@
+{
+  "package_name": "distributedsky-proto-contracts",
+  "version": "0.1.0",
+  "description": "Smart contracts for distributed sky proto",
+  "authors": [
+    "Konstantin Danilov <mail@xomak.net>"
+  ],
+  "keywords": [
+	"Distibuted sky"
+  ],
+   "build_dependencies": {
+    "airalab-common": "ipfs://Qmc8dothLPPNfqiRp9nBjM7vgEqzC5T9D8LN52T6ePAgDd"
+  },
+  "license": "BSD-3"
+}
